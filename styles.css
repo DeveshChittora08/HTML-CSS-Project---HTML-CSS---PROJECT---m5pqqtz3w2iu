@@ -1,1 +1,35 @@
 
+body{
+    background-color: rgb(200, 119, 209);
+    height: 100%;
+}
+.main-fram{
+    display: flex;
+    justify-content: center;
+   
+}
+
+img{
+    width: 26vw;
+    height: 80vh;
+    border: 6px solid white;
+    border-radius: 16px;
+}
+
+.nav{
+    background-color: white;
+    width: 26.5vw;
+    height: 12vh;
+    display: flex;
+    border-radius: 13px;
+    position: absolute;
+    left: 28.3rem;
+    top: 25.5rem;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(147, 145, 145);
+}
+
+i{
+    padding: 2em;
+}
